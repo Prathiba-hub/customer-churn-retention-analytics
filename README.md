@@ -114,6 +114,3 @@ supabase/
 └── migrations/          # SQL migration (tables + RLS policies)
 ```
 
-## License
-
-MIT
